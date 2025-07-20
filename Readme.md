@@ -1,6 +1,6 @@
 # 🤖 Insurance Claim Assistant Agent
 
-This project is a GenAI-powered assistant designed to simplify the insurance claim process. Built for the **DSW Round 2 - GenAI Hackathon**, it provides a conversational interface that helps users:
+This project is a GenAI-powered assistant designed to simplify the insurance claim process it provides a conversational interface that helps users:
 
 - Understand insurance claim procedures
 - File new claims via guided forms
